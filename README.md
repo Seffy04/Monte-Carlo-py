@@ -1,5 +1,5 @@
 # Monte-Carlo-py
-This project is best launched through a terminal.
+This project is best launched through a terminal. Modified for quick and efficient usage.
 
 ## Monte_carlo.py
 In this project, I employ the Monte-Carlo stohatic numerical method to do multiple things,
